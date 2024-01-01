@@ -129,7 +129,7 @@
 * 장연지, 최지선 and 김한샘. (2022). 감정 어휘 사전을 활용한 KcBERT 기반 영화 리뷰 말뭉치 감정 분석. 정보과학회논문지, 49(8), 608-616.
 * 조정태 and 최상현. (2015). 영화리뷰 감성 분석을 통한 평점 예측 연구. 경영과 정보연구, 34(3), 161-177.
 * 김지현, 하희정, 김서희 and 정영욱. (2021) OTT 서비스 콘텐츠 추천 사용자 경험 분석 - 넷플릭스 사례를 중심으로. Journal Integrated Design Research. 20(2), 73-87.
-* Soynlp, [https://github.com/lovit/soynlp]{https://github.com/lovit/soynlp}
+* Soynlp, [https://github.com/lovit/soynlp](https://github.com/lovit/soynlp)
 * KNU 한국어 감성사전, [https://github.com/park1200656/KnuSentiLex](https://github.com/park1200656/KnuSentiLex)
 * 딥러닝을 이용한 자연어 입문, [https://wikidocs.net/92961](https://wikidocs.net/92961)
 * BERT 실습, [https://github.com/deepseasw/bert-naver-movie-review/blob/master/bert_naver_movie.ipynb](https://github.com/deepseasw/bert-naver-movie-review/blob/master/bert_naver_movie.ipynb)
